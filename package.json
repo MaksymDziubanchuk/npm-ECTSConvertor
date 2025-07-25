@@ -1,0 +1,19 @@
+{
+  "name": "npm-ectsconvertor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymDziubanchuk/npm-ECTSConvertor.git"
+  },
+  "author": "maksym <dziubanchuk.maksym@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymDziubanchuk/npm-ECTSConvertor/issues"
+  },
+  "homepage": "https://github.com/MaksymDziubanchuk/npm-ECTSConvertor#readme",
+  "description": ""
+}
